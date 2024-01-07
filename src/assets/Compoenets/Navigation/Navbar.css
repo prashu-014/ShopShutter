@@ -1,0 +1,65 @@
+ 
+ header{
+    z-index: 10;
+ }
+ 
+ 
+ @media (max-width:768px) {
+
+    nav
+    {
+      
+        height: 100vh;
+        position: absolute;
+        top: 0;
+        left: -100%;
+
+
+        width: 80vw;
+        transition: all 0.3s ease;
+        background-color: whitesmoke;
+      
+      transition: all 0.3s ease-in;
+     
+        
+        
+        
+       
+
+    }
+   
+   
+
+    nav ul li
+    {
+        padding: 0.1rem 0;
+        
+        
+    }
+    nav ul li .nav_links
+    {
+
+        display: block;
+        
+        
+    }
+    nav ul li .nav_links:hover
+    {
+        background-color: blueviolet;
+        transition: all 0.3s ease;
+    }
+     .nav_open {
+        
+        left: -0;
+
+
+    }
+
+    .nav_close {
+       
+        left: -100%;
+
+
+    } 
+
+} 

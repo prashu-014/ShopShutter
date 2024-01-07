@@ -1,0 +1,256 @@
+[
+    {
+    "id": 1,
+    "name": "Wool Miller (Black)",
+    "category": "shirts",
+    "price": 450,
+    "stock": 50,
+    "ratings": 3.5,
+    "ratingCount": 347,
+    "img": "https://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/303510s.jpg",
+    "shipping": 14,
+    "quantity": 1
+},
+{
+    "id": 2,
+    "name": "Black solo jacket",
+    "category": "jackets",
+    "price": 2399,
+    "stock": 20,
+    "ratings": 4,
+    "ratingCount": 456,
+    "img": "https://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/N50395s3.jpg",
+    "shipping": 48,
+    "quantity": 1
+},
+{
+    "id":3,
+    "name":" jeans fusele",
+    "category":"pants",
+    "price":650,
+    "stock":25,
+    "ratings":5,
+    "ratingCount":568,
+    "img": "https://xcdn.next.co.uk/COMMON/Items/Default/Default/Publications/G75/shotview/2078/U76-215s.jpg",
+    "shipping":19,
+    "quantity":1
+
+},
+{
+    "id":4,
+    "name":" green hoddies",
+    "category":"hoddies",
+    "price":570,
+    "stock":10,
+    "ratings":3,
+    "ratingCount":1658,
+    "img":"https://xcdn.next.co.uk/common/Items/Default/Default/Publications/G62/shotview-315x472/860/287-790s.jpg",
+    "shipping":30,
+    "quantity":1
+
+},
+{
+    "id": 5,
+    "name": "XPD Everest",
+    "category": "jackets",
+    "price": 1950,
+    "stock": 20,
+    "ratings": 4,
+    "ratingCount": 456,
+    "img": "https://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/703041s4.jpg",
+    "shipping": 48,
+    "quantity": 1
+},
+{
+    "id": 6,
+    "name": "Green Hooded",
+    "category": "jackets",
+    "price": 1499,
+    "stock": 20,
+    "ratings": 4,
+    "ratingCount": 456,
+    "img": "https://xcdn.next.co.uk/common/Items/Default/Default/Publications/G62/shotview-315x472/862/A36-829s.jpg",
+    "shipping": 48,
+    "quantity": 1
+},
+{
+    "id":7,
+    "name":" Red pop Hoddie",
+    "category":"hoddies",
+    "price":799,
+    "stock":10,
+    "ratings":3,
+    "ratingCount":1658,
+    "img":"https://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/D61311s3.jpg",
+    "shipping":30,
+    "quantity":1
+
+},
+{
+    "id":8,
+    "name":"Blue slim fit (jeans)",
+    "category":"pants",
+    "price":870,
+    "stock":25,
+    "ratings":5,
+    "ratingCount":568,
+    "img": "https://xcdn.next.co.uk/COMMON/Items/Default/Default/Publications/G27/shotview/318/325-446s.jpg",
+    "shipping":19,
+    "quantity":1
+
+},
+{
+    "id": 9,
+    "name": "Western Long Sleeve",
+    "category": "shirts",
+    "price": 350,
+    "stock": 50,
+    "ratings": 3.5,
+    "ratingCount": 347,
+    "img": "https://xcdn.next.co.uk/common/Items/Default/Default/Publications/G85/shotview-315x472/2001/T77-687s.jpg",
+    "shipping": 14,
+    "quantity": 1
+},
+{
+    "id": 10,
+    "name": "Wool Miller",
+    "category": "shirts",
+    "price": 470,
+    "stock": 50,
+    "ratings": 3.5,
+    "ratingCount": 347,
+    "img": "https://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/561785s.jpg",
+    "shipping": 14,
+    "quantity": 1
+},
+{
+    "id": 11,
+    "name": "Kook N Keech",
+    "category": "tshirts",
+    "price": 290,
+    "stock": 50,
+    "ratings": 3.5,
+    "ratingCount": 347,
+    "img": "https://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/U08000s3.jpg",
+    "shipping": 14,
+    "quantity": 1
+},
+{
+    "id": 12,
+    "name": " Khaki Shadow",
+    "category": "shirts",
+    "price": 699,
+    "stock": 50,
+    "ratings": 3.5,
+    "ratingCount": 347,
+    "img": "https://xcdn.next.co.uk/COMMON/Items/Default/Default/Publications/G29/shotview/2071/967-239s.jpg",
+    "shipping": 14,
+    "quantity": 1
+},
+{
+    "id": 13,
+    "name": "Hollister Faux",
+    "category": "jackets",
+    "price": 1599,
+    "stock": 20,
+    "ratings": 4,
+    "ratingCount": 456,
+    "img": "https://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/154353s4.jpg",
+    "shipping": 48,
+    "quantity": 1
+},
+{
+    "id":14,
+    "name":"Carpenter Jeans",
+    "category":"pants",
+    "price":499,
+    "stock":25,
+    "ratings":5,
+    "ratingCount":568,
+    "img": "https://xcdn.next.co.uk/common/Items/Default/Default/Publications/G29/shotview-315x472/7001/595-230s.jpg",
+    "shipping":19,
+    "quantity":1
+
+},
+{
+    "id":15,
+    "name":"cotton Jeans",
+    "category":"pants",
+    "price":1090,
+    "stock":25,
+    "ratings":5,
+    "ratingCount":568,
+    "img": "https://xcdn.next.co.uk/common/Items/Default/Default/Publications/G29/shotview-315x472/2051/N02-138s.jpg",
+    "shipping":19,
+    "quantity":1
+
+},
+{
+    "id":16,
+    "name":" Central Pullover",
+    "category":"hoddies",
+    "price":999,
+    "stock":10,
+    "ratings":3,
+    "ratingCount":1658,
+    "img":"https://xcdn.next.co.uk/COMMON/Items/Default/Default/Publications/G62/shotview/463/432-307s.jpg",
+    "shipping":30,
+    "quantity":1
+
+},
+{
+    "id":17,
+    "name":"Sweathoddie",
+    "category":"hoddies",
+    "price":799,
+    "stock":10,
+    "ratings":3,
+    "ratingCount":1658,
+    "img":"https://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/425088s.jpg",
+    "shipping":30,
+    "quantity":1
+
+},
+{
+    "id": 18,
+    "name": "Vintage white",
+    "category": "tshirts",
+    "price": 449,
+    "stock": 50,
+    "ratings": 3.5,
+    "ratingCount": 347,
+    "img": "https://xcdn.next.co.uk/common/Items/Default/Default/Publications/G22/shotview-315x472/743/157-063s.jpg",
+    "shipping": 14,
+    "quantity": 1
+},
+{
+    "id": 19,
+    "name": "Van Heusen",
+    "category": "tshirts",
+    "price": 550,
+    "stock": 50,
+    "ratings": 3.5,
+    "ratingCount": 347,
+    "img": "https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/AltItemShot/315x472/754818s.jpg",
+    "shipping": 14,
+    "quantity": 1
+},
+{
+    "id": 20,
+    "name": "Buffalo T-shirt",
+    "category": "tshirts",
+    "price": 350,
+    "stock": 50,
+    "ratings": 3.5,
+    "ratingCount": 347,
+    "img": "https://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/194643s.jpg",
+    "shipping": 14,
+    "quantity": 1
+}
+
+
+
+
+
+
+]

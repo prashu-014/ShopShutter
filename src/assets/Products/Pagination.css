@@ -1,0 +1,17 @@
+.pagination
+{
+ border: 1px solid rgba(0, 0, 0, 0.658);
+ padding: 0.5rem 0;
+ /* rgba(0, 0, 0, 0.658) */
+}
+.pagination button
+{
+    background-color:#252525a1 ;
+    padding: 0.5rem 1rem;
+    margin-inline: 0.5rem;
+    color: white;
+}
+.pagination button.active
+{
+    background-color: black;
+}

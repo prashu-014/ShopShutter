@@ -1,0 +1,74 @@
+.carousel {
+
+    padding: 1rem 0.5rem;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.204);
+
+
+
+}
+
+.box {
+    max-width: 350px;
+    max-height: 330px;
+
+    overflow: hidden;
+    transition: all 0.3s ease;
+
+}
+
+.box h3 {
+    text-align: center;
+}
+
+.leftbtnarrows {
+
+
+    padding: 0.5rem;
+    position: absolute;
+    top: 0;
+    right: 60px;
+    z-index: 2;
+
+
+}
+
+.rightbtnarrows {
+
+    padding: 0.5rem;
+    position: absolute;
+    right: 25px;
+    top: 0;
+    z-index: 2;
+}
+
+
+@media (max-width:480px) {
+    .carousel {
+        padding: 0.5rem;
+        overflow: hidden;
+
+    }
+
+    .box {
+        max-width: 350px;
+        max-height: 450px;
+
+        overflow: hidden;
+        transition: all 0.3s ease;
+
+    }
+
+    .leftbtnarrows {
+
+        right: 10%;
+
+    }
+
+    .rightbtnarrows {
+
+        right: 0;
+
+    }
+
+}
