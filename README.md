@@ -34,6 +34,17 @@ The ShopShutter web app showcases fashion trends, provides a user-friendly inter
 
 ## Project Screen Shot(s)
 
+![landing page](https://github.com/prashu-014/ShopShutter/assets/98073443/55ef9059-ae0c-47cb-9483-c56040cc5fa3)
+![slider](https://github.com/prashu-014/ShopShutter/assets/98073443/c8151d67-b719-4aa0-8d8a-3298ea59c7f0)
+![slider](https://github.com/prashu-014/ShopShutter/assets/98073443/5784ad39-f357-4dc8-a242-2b69ef88f568)
+![allProduct](https://github.com/prashu-014/ShopShutter/assets/98073443/42856cea-60fb-4716-b129-7f3950f83035)
+![productDetails](https://github.com/prashu-014/ShopShutter/assets/98073443/401a3b63-d1c9-4aae-a294-8189cc2a56a3)
+![payment](https://github.com/prashu-014/ShopShutter/assets/98073443/8b2d3ab9-8d29-41c6-a8c7-f2d873608b42)
+![login](https://github.com/prashu-014/ShopShutter/assets/98073443/de8446bb-8ae3-4e27-b2c1-44694129d7ce)
+![Register](https://github.com/prashu-014/ShopShutter/assets/98073443/48bf70c7-f21a-47d2-bf14-c126ce4a9400)
+![contact](https://github.com/prashu-014/ShopShutter/assets/98073443/975d3d6b-ebcb-4758-a898-4e5eb142f7d6)
+
+
 
 
 ## Installation and Setup Instructions
