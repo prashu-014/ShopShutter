@@ -4,6 +4,8 @@ import './common.css'
 import { useParams } from 'react-router-dom';
 import ProductDisplay from '../Products/ProductDisplay';
 
+import AllProductData from '../AllProductData.json'
+
 
 
 
@@ -16,7 +18,9 @@ const ProductDetails = () => {
 
 
     useEffect(() => {
-        fetch("/src/assets/AllProductData.json").then(res => res.json()).then(data => setProduct(data))
+        // fetch("/src/assets/AllProductData.json").then(res => res.json()).then(data => setProduct(data))
+
+        setProduct(AllProductData);
     }, [])
 
 
